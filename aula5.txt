@@ -1,0 +1,19 @@
+
+
+ Relação DevOps e Open Source ! 
+ 
+ compartilhamento = colaboração e transperencia ! 
+ 
+ entregar um produto , entender o processo todo ! 
+ 
+ -> Principais ferramentas DevOps ! 
+ 
+ trello, gitlab, github, -> plan
+ git, vscode -> code
+ jenkins , github, gitlab-> ci/cd
+ chefinpec, molecule, selenium -> teste
+ docker, hubenertes ,terraform, ansible -> build,release,deploy
+ zabbix, prometheus, grafana, graylog, slack, -> monitoramento
+
+heroku , codeanywhere
+

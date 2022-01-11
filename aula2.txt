@@ -1,0 +1,49 @@
+Para se tornar um profissional :
+
+cultura , programação, redes , servidores , criação de scripts , git , 
+installar softwares , automatizar tarefas e configurações, observabilidade ,
+infra como codigo, orquestraçao de containers , compartilhar , ...
+
+- Devops é cultura e movimento ! 
+- Programação (python)
+- gerenciar servidores , redes , virtualização , segurança 
+- criar scripts (shell scrips e python)
+- aprenda e instale middlewares 
+- aprenda git 
+- automatizar tarefas e config 
+- infra com código 
+- monitorar a infraestrutura e sua aplicação ! 
+- orquestração de docker e kurbentes 
+- compartilhar 
+
+
+workstation = Linux 
+1. hardware (recursos)
+2. Vivência 
+3. Cultura (sharing)
+
+Por onde começar ? 
+    
+    não precisa ser especialista em todas , porem ter conhecimentos básicos em todas ! 
+    definir objetivos e metas 
+    
+-> Cloud e On premises(servidor local) !
+
+Profissional devops -> conhece e prática o -> C.A.M.L.S  !
+ automatiza sempre que possivel 
+ medição de todos os resultados 
+ compartilha (feedback)
+ 
+-> Certificações 
+
+lpi -> linux e devops
+docker -> DCA
+CKA e CKAD -> kubernetes 
+google cloud x aws x azure
+exin devops -> foundation , profession , master 
+exin agile scrum -> metodologia 
+
+
+
+ 
+

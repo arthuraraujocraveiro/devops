@@ -1,0 +1,14 @@
+Aula 03 
+
+O que é uma PIPELINE(tubulação) ? 
+
+O objetivo de uma pipeline é automatizar todo o processo de uma entrega de uma infraestrutura 
+ou software , garantindo qualidade , escabilidade, teste, estabilidade.
+
+etapas de uma pipeline : 
+processo em ciclos:
+-> planejamento, analise, desenho, implementação, teste e integração, deploy e revisão ! 
+
+Explorar uma PIPELINE:
+
+

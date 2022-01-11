@@ -1,0 +1,39 @@
+O que é pipeline(tubulação) ? 
+
+O Objetivo de uma pipeline é automatizar todo o processo de entrega de infraestrutura e/ou software de forma rápida, garantindo qualidade, testes, estabilidade e escalabilidade.
+
+
+-> Objetivo é automatizar toda a entrega de um infraestrutura ou um software de forma rápida 
+garantindo teste, seguranca, estabilidade , ... 
+
+É um ciclo até a sua conclusão -> planejamento , analise , desenho, implementação , teste e integração , deploy e revisao ! 
+
+2 ciclos -> dev e ops 
+
+planejar , codificar(git) , construir(build) -> pacote java, python,..., testar(selenium) -> DEV
+lancar(deploy) -> puppet,ansible, , implantar(docker,kurbenetes,azure,openshift) e operar, monitorar(nagios,zabbix,promotheus) -> OPS
+
+** Ssempre estamos voltando ao inicio do ciclo e melhorando ! 
+
+Pipeline em devops -> ferramentas em cada etapas ! 
+
+-> CI / CD 
+
+CI -> continuos integration
+integração continua -> liga todas as partes do processo
+Continous Integration é o processo que interliga todas as partes do processo DevOps.
+
+
+
+CD -> continuos deployment ou delivery 
+implantação cotinua -> processo de entrega do produto final ! 
+
+> No Continous Delivery o produto é entregue a um usuário final que decide se o produto vai "ao ar" ou não e quando.
+> No Continous Deployment o produto final é entregue de maneira totalmente automatizada, sem a necessidade de intervenção.
+
+Git Ops
+
+saber git 
+saber github ou gitlab ou gitbuckter 
+
+

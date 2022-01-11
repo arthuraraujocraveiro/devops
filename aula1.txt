@@ -1,0 +1,37 @@
+--> Aula 1 
+
+O que é ?
+    Processo de desenvolvimento e entrega de software de maneira agil, segura, confiavel ,...
+    ambientes , ferramentas , práticas
+    dev + ops(sysadmin)
+    
+Objetivo:
+    melhorar a frequencia de deploys 
+    automatizar processos
+    recuperacao do ambiente em caso de falha 
+    padronização das config de servidores
+    dimunir a ocorrencia de erros 
+    . . .
+    
+ A história , como surgiu ? 
+    decada de 60 - manifesto ágil (kanban)
+    
+ A importancia do devops ! 
+ -> C.A.M.L.S <-
+ culture  
+ automation  
+ measure (medição)
+ lean
+ sharing 
+ 
+ caracteristica dos ambientes devops -> blameless (sem culpa) ! 
+ 
+ Correlacionar Metodologias Ágeis com DevOps ! 
+ 
+ Para entender devops é preciso entender metodologias ágeis , como AGILE(SCRUM,sprits, daily standups,review,planig,backlog,task,), 
+ WATERFALL,
+  ! 
+ 
+ 
+ 
+ 
