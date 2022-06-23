@@ -1,4 +1,4 @@
 FROM nginx:alpine
-LABEL maintainer="arthur craveiro arthurcraveiro6@gmail.com"
+LABEL maintainer="arthur craveiro"
 COPY . /var/www
 EXPOSE 80
